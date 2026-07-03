@@ -24,6 +24,7 @@ Issues](#roadmap--good-first-issues) below.
 | | |
 |---|---|
 | Contract ID | `CCREVHBDDXGECXHXBBVGVLGDIKIDLTMCOCX2TLOZ5ES4RMZ2WXQUNM3H` |
+| Explorer | [View on Stellar Expert](https://stellar.expert/explorer/testnet/contract/CCREVHBDDXGECXHXBBVGVLGDIKIDLTMCOCX2TLOZ5ES4RMZ2WXQUNM3H) |
 | Network | Test SDF Network ; September 2015 |
 | Entry fee | 1 XLM |
 | Payout multiplier | 2x |
@@ -168,7 +169,7 @@ stellar contract bindings typescript --network testnet --contract-id <CONTRACT_I
   --output-dir ../frontend/src/packages/dice-game-bindings --overwrite
 ```
 
-## Roadmap / Good First Issues
+## Roadmap
 
 These were deliberately deferred to keep this an honest MVP rather than a
 half-finished "everything" build:
